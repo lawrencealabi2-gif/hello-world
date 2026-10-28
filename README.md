@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+This is a short bio about myself. My name is Lawrence Borlabi Alabi.
